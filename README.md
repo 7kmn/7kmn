@@ -1,4 +1,4 @@
-Hi 👋 My name is ykmn
+Hi 👋
 =====================
 
 Web Developer
